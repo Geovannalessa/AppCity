@@ -29,18 +29,19 @@ RF009 - O sistema deve oferecer localização em tempo real;
 RF010 - O sistema deve oferecer verificação em duas etapas;
  
 RF011 - O sistema deve solicitar permissão para acessar funcionalidades e arquivos do usuario;
-
+ 
+RF012 - Sistema deve priorizar noticias mais urgentes e exibir primeiro;
+ 
+RF013 - O sistema deve disponibilizar uma área para anúncios; 
+ 
 <strong>Não funcionais:</strong>
 
-RNF001 - Sistema deve priorizar noticias mais urgentes e exibir primeiro;
+RNF001 - Sistema deve ser de rápido e fácil acesso;
 
-RNF002 - Sistema deve ser de rápido e fácil acesso;
+RNF002 - O sistema deve ser feito em java;
 
-RNF003 - O sistema deve disponibilizar uma área para anúncios; 
+RNF003 - O sistema deve oferecer personalização da interface;
 
-RNF004 - O sistema deve ser feito em java;
+RNF004 - O sistema deve disponibilizar um bot para identificar spam e punir usuários, caso aconteça mais de 3 vezes o usuário deve ser banido permanentemente;
 
-RNF005 - O sistema deve oferecer personalização da interface;
-
-RNF006 - O sistema deve disponibilizar um bot para identificar spam e punir usuários, caso aconteça mais de 3 vezes o usuário deve ser banido permanentemente; 
 </div>
