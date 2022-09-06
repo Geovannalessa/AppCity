@@ -16,31 +16,31 @@ RF003 - O sistema deve oferecer Mapa para "turistas" (pessoas não registradas);
 
 RF004 - O sistema deverá emitir notificação;
 
-RF005 - Configuração de privacidade;
+RF005 - O sistema deverá oferecer configuração de privacidade;
 
-RF006 - Modo offline(download do mapa);
+RF006 - O sistema deverá ter Modo offline(download do mapa);
 
 RF007 - O sistema deve oferecer perfil para diferentes usuários;
 
-RF008 - O sistema deve oferecer sistema de cadastro de anuncios;
+RF008 - O sistema deve oferecer sistema de cadastro de anúncios;
 
 RF009 - O sistema deve oferecer localização em tempo real;
 
-RF010 - Verificação em duas etapas;
+RF010 - O sistema deve oferecer verificação em duas etapas;
+ 
+RF011 - O sistema deve solicitar permissão para acessar funcionalidades e arquivos do usuario;
 
 <strong>Não funcionais:</strong>
 
-RNF001 - Sistema deve oferecer urgência de notícia;
+RNF001 - Sistema deve priorizar noticias mais urgentes e exibir primeiro;
 
-RNF002 - Sistema deve ser de rápido e facil acesso;
+RNF002 - Sistema deve ser de rápido e fácil acesso;
 
-RNF003 - O sistema deve disponibilizar um sistema de anuncios; 
+RNF003 - O sistema deve disponibilizar uma área para anúncios; 
 
 RNF004 - O sistema deve ser feito em java;
 
-RNF005 - Permissões dentro do sistema;
+RNF005 - O sistema deve oferecer personalização da interface;
 
-RNF006 - Personalização da interface;
-
-RNF007 - O sistema deve disponibilizar um bot para identificar spam e punir usuários, caso aconteça mais de 3 vezes o usuario deve ser banido permanentemente;
+RNF006 - O sistema deve disponibilizar um bot para identificar spam e punir usuários, caso aconteça mais de 3 vezes o usuário deve ser banido permanentemente; 
 </div>
