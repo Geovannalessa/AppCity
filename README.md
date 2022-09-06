@@ -7,36 +7,40 @@ APP DA CIDADE <br>
 Trabalho de modelagem de software
 
 <strong>Funcionais:</strong>
+ 
+. Sistema deverá possuir uma interface com funções de gerenciamento para anunciantes e administradores.
+ 
+· O sistema deverá exigir login para pessoas que queiram interagir.
 
-· O sistema deverá exigir registro para funções de compartilhamento e interação,
+· O sistema oferecerá modo leitura e mapa para "turistas" (pessoas não registradas).
 
-· O sistema oferecerá modo leitura e mapa para "turistas" (pessoas não registradas),
+· O sistema deverá emitir Notificação.
 
-· Notificação,
+· Configuração de privacidade.
 
-· Configuração de privacidade
+· Modo offline(download do mapa).
 
-· Modo offline(download do mapa),
+· Sistema de grupo ao critério do desenvolvedor.
 
-· Sistema de grupo ao critério do desenvolvedor,
+· Requerimento para anunciante(apenas o moderador ou grupo superior pode oficializar um anunciante).
 
-· Requerimento para anunciante(apenas o moderador ou grupo superior pode oficializar um anunciante)
-
-· Localização em tempo real
+· Localização em tempo real.
+ 
+· Permissões dentro do sistema.
 
 <strong>Não funcionais:</strong>
 
-· Segurança,
+· Segurança.
 
-· Sistema de urgência de notícia,
+· Sistema de urgência de notícia.
 
-· Otimização,
+· Otimização.
 
-· Propragandas
-
-· Permissões dentro do sistema,
+· Propragandas.
 
 · Personalização da interface,
 
-· Bot de spam
+· Bot de spam 
+ 
+. Mecanica de avaliação e nota para lugares.
 </div>
