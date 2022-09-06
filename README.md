@@ -1,12 +1,12 @@
 # AppCity
 <div>
-APP DA CIDADE
-
+APP DA CIDADE <br>
+ <a href="https://www.canva.com/design/DAFLdLQxMgI/41WzpGWAmDEh1CUt0odRXQ/edit?utm_content=DAFLdLQxMgI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">LOGO MARCA</a> <br>
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Trabalho de modelagem de software
 
-Funcionais:
+<strong>Funcionais:</strong>
 
 · O sistema deverá exigir registro para funções de compartilhamento e interação,
 
@@ -24,7 +24,7 @@ Funcionais:
 
 · Localização em tempo real
 
-Não funcionais:
+<strong>Não funcionais:</strong>
 
 · Segurança,
 
