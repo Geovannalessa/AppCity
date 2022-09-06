@@ -8,35 +8,39 @@ Trabalho de modelagem de software
 
 <strong>Funcionais:</strong>
 
-· O sistema deverá exigir registro para funções de compartilhamento e interação,
+RF001 - O sistema deverá exigir registro para funções de compartilhamento e interação;
 
-· O sistema oferecerá modo leitura e mapa para "turistas" (pessoas não registradas),
+RF002 - O sistema deve oferecer modo leitura;
 
-· Notificação,
+RF003 - O sistema deve oferecer Mapa para "turistas" (pessoas não registradas);
 
-· Configuração de privacidade
+RF004 - O sistema deverá emitir notificação;
 
-· Modo offline(download do mapa),
+RF005 - Configuração de privacidade;
 
-· Sistema de grupo ao critério do desenvolvedor,
+RF006 - Modo offline(download do mapa);
 
-· Requerimento para anunciante(apenas o moderador ou grupo superior pode oficializar um anunciante)
+RF007 - O sistema deve oferecer perfil para diferentes usuários;
 
-· Localização em tempo real
+RF008 - O sistema deve oferecer sistema de cadastro de anuncios;
+
+RF009 - O sistema deve oferecer localização em tempo real;
+
+RF010 - Verificação em duas etapas;
 
 <strong>Não funcionais:</strong>
 
-· Segurança,
+RNF001 - Sistema deve oferecer urgência de notícia;
 
-· Sistema de urgência de notícia,
+RNF002 - Sistema deve ser de rápido e facil acesso;
 
-· Otimização,
+RNF003 - O sistema deve disponibilizar um sistema de anuncios; 
 
-· Propragandas
+RNF004 - O sistema deve ser feito em java;
 
-· Permissões dentro do sistema,
+RNF005 - Permissões dentro do sistema;
 
-· Personalização da interface,
+RNF006 - Personalização da interface;
 
-· Bot de spam
+RNF007 - O sistema deve disponibilizar um bot para identificar spam e punir usuários, caso aconteça mais de 3 vezes o usuario deve ser banido permanentemente;
 </div>
