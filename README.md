@@ -4,8 +4,8 @@ APP DA CIDADE <br>
  <a href="https://www.canva.com/design/DAFLdLQxMgI/41WzpGWAmDEh1CUt0odRXQ/edit?utm_content=DAFLdLQxMgI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">LOGO MARCA</a> <br>
   <br>
  <a href="https://www.figma.com/file/A0o7Sf3z068jwMLqmWFs91/Untitled?node-id=0%3A1">LINK FIGMA<a/><br>
-
-  <a href="https://app.diagrams.net/#G1q769CFfh_qkiUdl8z9tZQ1KCi_TStCZ8">LINK DIAGRAMA<a/><br>
+ 
+ <a href="https://app.diagrams.net/#G1q769CFfh_qkiUdl8z9tZQ1KCi_TStCZ8">LINK DIAGRAMA<a/><br>
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Trabalho de modelagem de software
