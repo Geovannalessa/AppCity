@@ -5,7 +5,7 @@ APP DA CIDADE <br>
   <br>
  <a href="https://www.figma.com/file/A0o7Sf3z068jwMLqmWFs91/Untitled?node-id=0%3A1">LINK FIGMA<a/><br>
  
- <a href="https://app.diagrams.net/#G1q769CFfh_qkiUdl8z9tZQ1KCi_TStCZ8">LINK DIAGRAMA<a/><br>
+ <a href="https://app.diagrams.net/#G1q769CFfh_qkiUdl8z9tZQ1KCi_TStCZ8">LINK DIAGRAMA</a> <br>
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Trabalho de modelagem de software
