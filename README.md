@@ -40,7 +40,7 @@ RF013 - O sistema deve disponibilizar uma área para anúncios;
 
 RF014 - O sistema deverá verificar o nome e o e-mail do usuário;
 
-RF015 - O sistema deverá validarr o nome e o e-mail do usuário;
+RF015 - O sistema deverá validar o nome e o e-mail do usuário;
  
 <strong>Não funcionais:</strong>
 
