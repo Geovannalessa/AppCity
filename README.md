@@ -37,6 +37,10 @@ RF011 - O sistema deve solicitar permissão para acessar funcionalidades e arqui
 RF012 - Sistema deve priorizar noticias mais urgentes e exibir primeiro;
  
 RF013 - O sistema deve disponibilizar uma área para anúncios; 
+
+RF014 - O sistema deverá verificar o nome e o e-mail do usuário;
+
+RF015 - O sistema deverá validarr o nome e o e-mail do usuário;
  
 <strong>Não funcionais:</strong>
 
